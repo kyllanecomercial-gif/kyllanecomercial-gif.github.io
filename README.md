@@ -9,7 +9,7 @@ focando em performance, experiência do usuário e resultados.
 <p><b>Sobre</b></p>
 <p>ou Desenvolvedora Front-end em transição da área comercial para tecnologia. Minha experiência em vendas e gestão me proporcionou uma visão voltada para negócios, comunicação e resolução de problemas, habilidades que hoje aplico no desenvolvimento de soluções web modernas.
 
-Atualmente desenvolvo sites institucionais, landing pages, e-commerce e integrações com agentes de IA, sempre buscando entregar projetos rápidos, responsivos e com foco em conversão.</p>
+Desenvolvo aplicações Front-end utilizando HTML, CSS e JavaScript, criando sites institucionais, landing pages e interfaces responsivas. Também possuo experiência integrando soluções com APIs e agentes de IA.</p>
 </div>
 <br>
 <br>
@@ -18,9 +18,12 @@ Atualmente desenvolvo sites institucionais, landing pages, e-commerce e integra�
 <br/>
 <p align="center"> • HTML5    • CSS3    • JavaScript    • Git    • GitHub    • Responsive Design    • Figma    • APIs     • IA </p>
 
+<h2 align="center"><b>COMPETÊNCIAS</b></h2>
+<p align="center"> Interfaces Responsivas | Consumo de APIs REST | Manipulação do DOM | Versionamento Git | GitHub | UI Responsiva | UX | Clean Code | Mobile First | Flexbox | Grid | Deploy GitHub Pages</p>
+
 <h2 align="center"><b>PROJETOS</b></h2>
 <br>
-<img align="left" width="600" height="auto" alt="image project descubra niteroi" src="https://github.com/user-attachments/assets/b85bd62e-1765-40c9-8f0a-da7cbbf2cab0" />
+<img align="left" width="450px" height="auto" alt="image project descubra niteroi" src="https://github.com/user-attachments/assets/b85bd62e-1765-40c9-8f0a-da7cbbf2cab0" />
 <br/>
 <br/>
 <p><b>🌊 Descubra Niterói | HTML + CSS</b></p>
@@ -29,7 +32,7 @@ Atualmente desenvolvo sites institucionais, landing pages, e-commerce e integra�
  <br/>
   <br/>
 <hr>
-<img align="left" width="600" height="auto" alt="Captura de tela 2026-08-03 140444" src="https://github.com/user-attachments/assets/2d54e143-e341-4591-b92c-6c174d863312"/>
+<img align="left" width="450px" height="auto" alt="Captura de tela 2026-08-03 140444" src="https://github.com/user-attachments/assets/2d54e143-e341-4591-b92c-6c174d863312"/>
 <br/>
 <p><b>💱 Currency Converter | JavaScript + API</b></p>
 <p> Um conversor de moedas desenvolvido com <b>HTML, CSS e JavaScript</b>, que permite realizar conversões entre diferentes moedas de forma rápida e intuitiva, utilizando uma interface simples e responsiva.</p>
@@ -37,7 +40,7 @@ Atualmente desenvolvo sites institucionais, landing pages, e-commerce e integra�
  <br/>
   <br/>
 <hr/>
-<img align="left" width="600" height="auto" alt="image project sorteio" src="https://github.com/user-attachments/assets/bb039d53-0538-42c0-96be-175ae6c53aed" />
+<img align="left" width="450px" height="auto" alt="image project sorteio" src="https://github.com/user-attachments/assets/bb039d53-0538-42c0-96be-175ae6c53aed" />
 <br/>
 <p><b>🎲 Sorteador de Números | JavaScript</b></p>
 <p>Um sorteador de números desenvolvido com <b>HTML, CSS e JavaScript</b>, que permite gerar números aleatórios dentro de um intervalo definido pelo usuário, oferecendo uma interface simples, intuitiva e responsiva para realizar sorteios de forma rápida e prática.</p>
@@ -45,7 +48,7 @@ Atualmente desenvolvo sites institucionais, landing pages, e-commerce e integra�
  <br/>
   <br/>
 <hr>
-<img align="left" width="600" height="auto" alt="image project cronometro" src="https://github.com/user-attachments/assets/70ce5cc1-fe45-4825-9566-08a9ab0f4be2" />
+<img align="left" width="450px" height="auto" alt="image project cronometro" src="https://github.com/user-attachments/assets/70ce5cc1-fe45-4825-9566-08a9ab0f4be2" />
 <br/>
 <p><b>⏱️ Stopwatch | JavaScript</b></p>
 <p>Um cronômetro desenvolvido com HTML, CSS e JavaScript, que permite iniciar, pausar e reiniciar a contagem do tempo de forma precisa, utilizando uma interface simples, intuitiva e responsiva para proporcionar uma ótima experiência ao usuário.</p>
